@@ -13,3 +13,6 @@ A repo containing some of the technical resources I find myself needing every on
 ## For cloud environments:
 - Google Cloud 
 - AWS
+
+## For data viz
+- Integrating Python into Tableau
